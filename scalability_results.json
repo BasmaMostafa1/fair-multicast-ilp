@@ -1,0 +1,72 @@
+[
+ {
+  "n": 8,
+  "arcs": 19,
+  "binaries": 114,
+  "ninst": 3,
+  "proven": 3,
+  "mean_sec": 0.1,
+  "max_sec": 0.1,
+  "mean_dstar": 0.976
+ },
+ {
+  "n": 10,
+  "arcs": 31,
+  "binaries": 186,
+  "ninst": 3,
+  "proven": 3,
+  "mean_sec": 0.1,
+  "max_sec": 0.2,
+  "mean_dstar": 0.887
+ },
+ {
+  "n": 12,
+  "arcs": 41,
+  "binaries": 246,
+  "ninst": 3,
+  "proven": 3,
+  "mean_sec": 13.6,
+  "max_sec": 28.1,
+  "mean_dstar": 0.117
+ },
+ {
+  "n": 14,
+  "arcs": 56,
+  "binaries": 336,
+  "ninst": 3,
+  "proven": 3,
+  "mean_sec": 0.6,
+  "max_sec": 1.7,
+  "mean_dstar": 1.022
+ },
+ {
+  "n": 16,
+  "arcs": 70,
+  "binaries": 420,
+  "ninst": 2,
+  "proven": 2,
+  "mean_sec": 37.5,
+  "max_sec": 73.0,
+  "mean_dstar": 0.034
+ },
+ {
+  "n": 18,
+  "arcs": 91,
+  "binaries": 546,
+  "ninst": 2,
+  "proven": 2,
+  "mean_sec": 43.4,
+  "max_sec": 77.4,
+  "mean_dstar": 0.025
+ },
+ {
+  "n": 20,
+  "arcs": 107,
+  "binaries": 642,
+  "ninst": 2,
+  "proven": 2,
+  "mean_sec": 73.5,
+  "max_sec": 146.8,
+  "mean_dstar": 0.802
+ }
+]
